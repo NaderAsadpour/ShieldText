@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="ShieldText.Lite/ShieldText.Lite.csproj" Id="f3e1c634-6ebd-4fa5-a93d-a5bd571b49b7" />
   <Project Path="ShieldText/ShieldText.csproj" />
 </Solution>
